@@ -6,7 +6,7 @@ I could not find anything on https://randomnerdtutorials.com that stated under w
 
 I presume that tutorials that are available for anyone for free on the internet will not contain intellectual property that I shouldn't post on GitHub.
 
-I have also purchased some of their books including "Build Web Servers with ESP32 and ESP8266" V2.1; they state that I can only use this information for personal use. I take this to mean I cannot put the code from their books into github nor use it in any products.
+I have also purchased some of their books including "Build Web Servers with ESP32 and ESP8266" V2.1; they state that I can only use the book information for personal use. I take this to mean I cannot put the code from their books into github nor use it in any products.
 
 I think it is respectful and intellectually honest to provide attribution to https://randomnerdtutorials.com when using their published code.
 
